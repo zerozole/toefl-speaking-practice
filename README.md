@@ -113,15 +113,6 @@ All models run locally on the Colab GPU. Nothing is sent to external APIs. **Tot
 
 ---
 
-## Feedback
-
-Found a bug? Have a suggestion? Open an issue or reach out — feedback is welcome.
-
-If you found this helpful and want to support the project:
-**[Support on Gumroad](https://testexpert.gumroad.com/l/hlilv)**
-
----
-
 ## License
 
 This project is free for personal and educational use.
